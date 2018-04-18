@@ -1,0 +1,1164 @@
+C:\Users\juna94\AppData\Local\Temporary Projects\so.simpi-pro\bin\Debug\so.simpi-pro.exe.config
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.exe.config
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.exe
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.pdb
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.C1Pdf.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\MadMilkman.Ini.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\Renci.SshNet.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.Codeset.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreBank.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreBilling.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreCapital.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreClosing.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreData.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreOverride.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalDate.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalEncryption.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalException.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalGateway.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalRegEx.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalString.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketCompany.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketInstrument.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterClient.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterPortfolio.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSales.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSecurities.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSimpi.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterBank.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterClient.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterFA.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterPortfolio.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterSecurities.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterSimpi.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterTA.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiAccess.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiLogin.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiMaster.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SystemLog.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SystemSecurity.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketDatabase.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.PrivateInstrument.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalBond.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\MySql.Data.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalRandom.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalMessage.dll
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.C1Pdf.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbprojResolveAssemblyReference.cache
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.ResolveComReference.cache
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountKYC.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeAdd.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalDocument.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalIDCard.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSignature.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountMaintenance.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodesetSimpi.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodetsetPortfolio.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterCharges.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterChargesProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolio.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSharing.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSimpi.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioBenchmark.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioFund.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioIndex.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioModel.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioMulti.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharing.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharingAdd.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSimulation.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSub.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioUmbrella.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpi.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiRiskLevel.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiTicket.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUser.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileApplication.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileMenu.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSharing.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSimpi.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileReport.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiLog.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmark.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmarkProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODClosing.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODClosingProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODChargesAccrual.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODFundOnFund.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODFundOnFundProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturn.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturnProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODUnitReconcile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormOverrideBank.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormOverrideNAV.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormOverrideSecurities.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormUploadCapital.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormBatchPrint.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.Form1.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormForgotPassword.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormLogin.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormPassword.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormProfileUser.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatement.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuation.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAV.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOutstanding.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQPDF.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransaction.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFee.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportSalesAUM.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportSalesTransaction.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditIFA.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditReferral.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewIFA.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewReferral.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileIFA.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileReferral.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBank.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankBranch.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmark.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmarkClass.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectClientKYC.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterClient.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetPortfolio.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCounterPart.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormal.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolio.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormalSubFOF.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSales.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.MDISO.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.Resources.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPD.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDDelete.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeIncentive.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesMaintenance.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBank.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionForm.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettle.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleBK.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeMulti.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeReferral.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSelling.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSharing.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBank.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionForm.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormEdit.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPD.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDDelete.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettle.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleBK.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleProfile.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiIFA.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiReferral.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSecurities.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSimpiPortfolioNormal.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectUser.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionCapitalAcquisition.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCash.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashDelete.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemption.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionDelete.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscription.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionDelete.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionNew.resources
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.GenerateResource.Cache
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.exe.licenses
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.exe
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.xml
+D:\BJMANUNGGAL\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.pdb
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.exe.config
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.exe
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.pdb
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\so.simpi-pro.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.C1Pdf.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\MadMilkman.Ini.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\Renci.SshNet.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.Codeset.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreBank.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreBilling.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreCapital.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreClosing.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreCompliance.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreData.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.CoreOverride.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalDate.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalEncryption.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalException.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalGateway.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalRegEx.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalStatistic.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalString.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketCompany.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketInstrument.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterClient.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterPortfolio.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSales.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSecurities.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MasterSimpi.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterBank.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterClient.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterFA.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterPortfolio.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterSecurities.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterSimpi.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.ParameterTA.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiAccess.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiLogin.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SimpiMaster.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SystemLog.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.SystemSecurity.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.MarketDatabase.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.PrivateInstrument.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalBond.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\MySql.Data.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalRandom.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\simpi.GlobalMessage.dll
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.C1Pdf.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.xml
+D:\SIMPI\APPS\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbprojResolveAssemblyReference.cache
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.ResolveComReference.cache
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountKYC.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeAdd.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalDocument.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalIDCard.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSignature.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountMaintenance.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCIndividual.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCInstitutional.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountFundUnitAccountSubAccount.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterUpdate.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideCharges.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideNAV.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideClosing.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransaction.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesCodeset.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodesetSimpi.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodetsetPortfolio.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterCharges.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterChargesProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolio.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSharing.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSimpi.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioBenchmark.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioFund.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioIndex.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioModel.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioMulti.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharing.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharingAdd.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSimulation.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSub.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioUmbrella.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpi.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiRiskLevel.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiTicket.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUser.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileApplication.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileMenu.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSharing.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSimpi.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileReport.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiLog.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormBatchPrint.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.Form1.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormForgotPassword.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormLogin.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormPassword.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormProfileUser.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatement.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuation.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAV.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOutstanding.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransaction.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFee.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportSalesAUM.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.ReportSalesTransaction.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditIFA.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditReferral.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewIFA.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewReferral.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileIFA.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileReferral.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBank.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankAccount.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankBranch.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmark.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmarkClass.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCharges.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectClientKYC.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetSales.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarket.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarketCompany.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterClient.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetPortfolio.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCounterPart.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormal.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolio.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormalSubFOF.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSales.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.MDISO.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.Resources.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPD.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDDelete.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeIncentive.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesMaintenance.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBank.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionForm.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettle.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleBK.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeMulti.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeReferral.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSelling.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSharing.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBank.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionForm.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormEdit.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPD.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDDelete.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettle.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleBK.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleProfile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiIFA.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiReferral.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSecurities.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSimpiPortfolioNormal.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectUser.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionCapitalAcquisition.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCash.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashDelete.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemption.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionDelete.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscription.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionDelete.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionNew.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAccountBalanceReconcile.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAllocation.resources
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.GenerateResource.Cache
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.exe.licenses
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.exe
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.xml
+D:\SIMPI\APPS\so.simpi-pro\obj\Debug\so.simpi-pro.pdb
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi-pro.vbprojResolveAssemblyReference.cache
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.ResolveComReference.cache
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountKYC.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeAdd.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalDocument.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalIDCard.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSignature.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountMaintenance.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCIndividual.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCInstitutional.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountFundUnitAccountSubAccount.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterUpdate.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmark.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmarkProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideCharges.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideDividendCash.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideNAV.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideClosing.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturn.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturnProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideBank.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideSecurities.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormBondCalculator.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheet.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetSetting.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementSetting.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuationEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAVEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOustandingEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQ.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransactionEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransaction.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransactionEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFeeEmail.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesCodeset.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodesetSimpi.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodetsetPortfolio.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterCharges.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterChargesProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolio.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSharing.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSimpi.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioBenchmark.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioFund.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioIndex.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioModel.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioMulti.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharing.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharingAdd.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSimulation.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSub.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioUmbrella.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpi.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiRiskLevel.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiTicket.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUser.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileApplication.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileMenu.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSharing.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSimpi.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileReport.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiLog.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormBatchPrint.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.Form1.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormLogin.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormPassword.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormProfileUser.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatement.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuation.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAV.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOutstanding.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransaction.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFee.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditIFA.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditReferral.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewIFA.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewReferral.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileIFA.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileReferral.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBank.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankAccount.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankBranch.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmark.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmarkClass.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCharges.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectClientKYC.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetSales.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarket.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarketCompany.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterClient.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetPortfolio.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCounterPart.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormal.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolio.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormalSubFOF.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSales.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.MDISO.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.Resources.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPD.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDDelete.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeIncentive.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesMaintenance.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBank.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionForm.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettle.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleBK.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeMulti.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeReferral.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSelling.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSharing.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBank.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionForm.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormEdit.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPD.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDDelete.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettle.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleBK.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleProfile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiIFA.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiReferral.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSecurities.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSimpiPortfolioNormal.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectUser.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionCapitalAcquisition.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCash.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashDelete.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemption.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionDelete.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscription.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionDelete.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionNew.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAccountBalanceReconcile.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAllocation.resources
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.GenerateResource.Cache
+D:\SIMPI\TESTING\so.simpi-pro\obj\Debug\so.simpi-pro.exe.licenses
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.exe.config
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.exe
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.pdb
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Excel.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Pdf.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Report.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Zip.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Document.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1DX.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Report.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.ImportServices.4.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\Renci.SshNet.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.Codeset.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreBank.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreBilling.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreCapital.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreClosing.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreCompliance.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreData.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreOverride.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalConnection.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalCore.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalUtilities.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketCompany.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketDatabase.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketInstrument.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterClient.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterPortfolio.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterReferral.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSales.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSecurities.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSimpi.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterBank.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterClient.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterFA.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterPortfolio.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterSecurities.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterSimpi.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterTA.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiAccess.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiLogin.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiMaster.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.SystemLog.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.SystemSecurity.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\simpi.PrivateInstrument.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\Ionic.Zip.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\MySql.Data.dll
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Excel.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Pdf.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Report.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Zip.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Document.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1DX.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Report.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.ImportServices.4.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbprojResolveAssemblyReference.cache
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.ResolveComReference.cache
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountKYC.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeAdd.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalDocument.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalIDCard.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSignature.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountMaintenance.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCIndividual.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCInstitutional.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountFundUnitAccountSubAccount.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterUpdate.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmark.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmarkProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideBank.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideCharges.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideDividendCash.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideNAV.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideClosing.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturn.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturnProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideSecurities.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormBondCalculator.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormLogin.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheet.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetSetting.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementSetting.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuationEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAVEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOustandingEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQ.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransactionEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransaction.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransactionEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFeeEmail.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralMaintenance.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesCodeset.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodesetSimpi.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodetsetPortfolio.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterCharges.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterChargesProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolio.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSharing.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSimpi.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioBenchmark.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioFund.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioIndex.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioModel.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioMulti.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharing.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharingAdd.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSimulation.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSub.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioUmbrella.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpi.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiRiskLevel.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiTicket.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUser.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileApplication.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileMenu.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSharing.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSimpi.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileReport.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiLog.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormBatchPrint.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.Form1.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormPassword.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormProfileUser.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatement.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuation.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAV.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOutstanding.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransaction.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFee.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditIFA.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditReferral.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewIFA.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewReferral.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileIFA.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileReferral.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBank.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankAccount.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankBranch.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmark.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmarkClass.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCharges.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectClientKYC.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetSales.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarket.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarketCompany.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterClient.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetPortfolio.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCounterPart.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormal.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolio.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormalSubFOF.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSales.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.MDISO.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.Resources.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPD.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDDelete.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeIncentive.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesMaintenance.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBank.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionForm.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettle.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleBK.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeMulti.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeReferral.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSelling.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSharing.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBank.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionForm.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormEdit.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPD.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDDelete.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettle.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleBK.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleProfile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiIFA.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiReferral.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSecurities.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSimpiPortfolioNormal.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectUser.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionCapitalAcquisition.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCash.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashDelete.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemption.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionDelete.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscription.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionDelete.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionNew.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAccountBalanceReconcile.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAllocation.resources
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.GenerateResource.Cache
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.exe.licenses
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.exe
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.xml
+D:\SIMPI\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.pdb
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.exe.config
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.exe
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.pdb
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\so.simpi-pro.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Excel.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Pdf.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Report.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Zip.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Document.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1DX.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Report.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.ImportServices.4.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\Renci.SshNet.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.Codeset.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreBank.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreBilling.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreCapital.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreClosing.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreCompliance.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreData.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.CoreOverride.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalConnection.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalCore.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.GlobalUtilities.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketCompany.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketDatabase.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MarketInstrument.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterClient.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterPortfolio.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterReferral.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSales.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSecurities.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.MasterSimpi.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterBank.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterClient.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterFA.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterPortfolio.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterSecurities.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterSimpi.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.ParameterTA.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiAccess.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiLogin.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.SimpiMaster.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.SystemLog.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.SystemSecurity.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\simpi.PrivateInstrument.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\Ionic.Zip.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\MySql.Data.dll
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Excel.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Pdf.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Report.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.C1Zip.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Chart.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Command.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Document.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1DX.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Report.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1SplitContainer.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\bin\Debug\C1.Win.ImportServices.4.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbprojResolveAssemblyReference.cache
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.ResolveComReference.cache
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountKYC.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeAdd.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorNomineeProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountDistributorProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountIndividualSubProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalDocument.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalIDCard.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSignature.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountInstitutionalSubProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountMaintenance.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCIndividual.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountCurrentKYCInstitutional.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormAccountFundUnitAccountSubAccount.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterUpdate.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmark.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODBenchmarkProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideBank.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideCharges.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideDividendCash.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideNAV.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideClosing.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturn.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODReturnProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormEODOverrideSecurities.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormBondCalculator.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormLogin.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetCPF.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetDividend.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQ.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQGlobal.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQSetting.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetEQSyariah.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetKPD.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetMM.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetSectorEQ.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundSheetSectorFI.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportHoldingEQ.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportHoldingFI.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportHoldingTD.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportProductFocusEQ.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportProductFocusFI.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportProductFocusMM.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheet.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFactSheetSetting.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountFee.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatementSetting.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuationEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAVEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOustandingEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransactionEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransaction.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportInquiryTransactionEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFeeEmail.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralMaintenance.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormReferralProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesCodeset.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodesetSimpi.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormCodetsetPortfolio.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterCharges.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterChargesProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolio.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSharing.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioAddSimpi.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioBenchmark.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioFund.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioIndex.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioModel.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioMulti.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharing.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSharingAdd.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSimulation.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioSub.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterPortfolioUmbrella.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpi.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiRiskLevel.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiTicket.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUser.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileApplication.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileMenu.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSharing.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfilePortfolioSimpi.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSimpiUserProfileReport.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormMasterSimpiLog.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormBatchPrint.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.Form1.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormPassword.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormProfileUser.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountStatement.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportAccountValuation.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundNAV.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundOutstanding.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportFundTransaction.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.ReportManagementFee.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditIFA.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEditReferral.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewIFA.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNewReferral.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileIFA.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfileReferral.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBank.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankAccount.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBankBranch.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmark.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectBenchmarkClass.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCharges.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectClientKYC.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetSales.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarket.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMarketCompany.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterClient.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCodesetPortfolio.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectCounterPart.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormal.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolio.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterPortfolioNormalSubFOF.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSales.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.MDISO.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.Resources.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBankProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPD.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDDelete.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeIncentive.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesMaintenance.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionBank.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionForm.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionFormNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettle.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleBK.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionSettleProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeMulti.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeReferral.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSelling.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSalesFeeSharing.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBank.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionBankProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionForm.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormEdit.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionFormProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormRedemptionKPDNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPD.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDDelete.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionKPDNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettle.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleBK.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSubscriptionSettleProfile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiIFA.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectMasterSimpiReferral.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSecurities.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectSimpiPortfolioNormal.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormSelectUser.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionCapitalAcquisition.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCash.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashDelete.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionDividendCashNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemption.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionDelete.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionRedemptionNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscription.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionDelete.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionSubscriptionNew.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAccountBalanceReconcile.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi_pro.FormTransactionUnitAllocation.resources
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.vbproj.GenerateResource.Cache
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.exe.licenses
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.exe
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.xml
+D:\simpiPRO\APPS LAN\so.simpi-pro\obj\Debug\so.simpi-pro.pdb
