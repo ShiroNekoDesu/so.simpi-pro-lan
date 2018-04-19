@@ -81,11 +81,11 @@ Partial Class ReportFundSheetCPF
         Me.InputTextBox7 = New C1.Win.C1InputPanel.InputTextBox()
         Me.InputTextBox8 = New C1.Win.C1InputPanel.InputTextBox()
         Me.InputTextBox9 = New C1.Win.C1InputPanel.InputTextBox()
+        Me.InputLabel25 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputLabel24 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputLabel23 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputTextBox10 = New C1.Win.C1InputPanel.InputTextBox()
         Me.InputTextBox11 = New C1.Win.C1InputPanel.InputTextBox()
-        Me.InputLabel25 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputTextBox12 = New C1.Win.C1InputPanel.InputTextBox()
         Me.InputLabel26 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputTextBox13 = New C1.Win.C1InputPanel.InputTextBox()
@@ -106,6 +106,7 @@ Partial Class ReportFundSheetCPF
         Me.InputLabel7 = New C1.Win.C1InputPanel.InputLabel()
         Me.InputTextBox3 = New C1.Win.C1InputPanel.InputTextBox()
         Me.chartNAV = New C1.Win.C1Chart.C1Chart()
+        Me.C1PdfDocument1 = New C1.C1Pdf.C1PdfDocument()
         CType(Me.C1InputPanel2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.C1SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.C1SplitContainer1.SuspendLayout()
@@ -584,6 +585,13 @@ Partial Class ReportFundSheetCPF
         Me.InputTextBox9.Name = "InputTextBox9"
         Me.InputTextBox9.Width = 70
         '
+        'InputLabel25
+        '
+        Me.InputLabel25.HorizontalAlign = C1.Win.C1InputPanel.InputContentAlignment.Center
+        Me.InputLabel25.Name = "InputLabel25"
+        Me.InputLabel25.Text = "YTD"
+        Me.InputLabel25.Width = 70
+        '
         'InputLabel24
         '
         Me.InputLabel24.HorizontalAlign = C1.Win.C1InputPanel.InputContentAlignment.Center
@@ -609,13 +617,6 @@ Partial Class ReportFundSheetCPF
         Me.InputTextBox11.Break = C1.Win.C1InputPanel.BreakType.None
         Me.InputTextBox11.Name = "InputTextBox11"
         Me.InputTextBox11.Width = 70
-        '
-        'InputLabel25
-        '
-        Me.InputLabel25.HorizontalAlign = C1.Win.C1InputPanel.InputContentAlignment.Center
-        Me.InputLabel25.Name = "InputLabel25"
-        Me.InputLabel25.Text = "YTD"
-        Me.InputLabel25.Width = 70
         '
         'InputTextBox12
         '
@@ -761,6 +762,13 @@ Partial Class ReportFundSheetCPF
         Me.chartNAV.Size = New System.Drawing.Size(643, 167)
         Me.chartNAV.TabIndex = 7
         '
+        'C1PdfDocument1
+        '
+        Me.C1PdfDocument1.RotateAngle = 0!
+        Me.C1PdfDocument1.UniqueFontsPerPage = False
+        Me.C1PdfDocument1.UseFastTextOut = False
+        Me.C1PdfDocument1.UseFileCaching = False
+        '
         'ReportFundSheetCPF
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -870,4 +878,5 @@ Partial Class ReportFundSheetCPF
     Friend WithEvents InputTextBox12 As C1.Win.C1InputPanel.InputTextBox
     Friend WithEvents InputLabel26 As C1.Win.C1InputPanel.InputLabel
     Friend WithEvents InputTextBox13 As C1.Win.C1InputPanel.InputTextBox
+    Friend WithEvents C1PdfDocument1 As C1.C1Pdf.C1PdfDocument
 End Class
